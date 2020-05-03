@@ -1,0 +1,12 @@
+name: Taxonomy Scheduler
+description: Allows scheduled publishing of taxonomy terms.
+# core: 8.x
+type: module
+dependencies:
+  - hook_event_dispatcher:hook_event_dispatcher
+
+# Information added by Drupal.org packaging script on 2019-03-12
+version: '8.x-1.0-alpha3'
+core: '8.x'
+project: 'taxonomy_scheduler'
+datestamp: 1552409289
